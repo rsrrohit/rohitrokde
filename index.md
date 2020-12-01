@@ -19,16 +19,16 @@ An aspiring data scientist, experienced application developer, and a passionate 
 
 # Work Experience
 
-AIVIS.AI, Malpitas, CA
-Deep Learning Intern
+### AIVIS.AI, Malpitas, CA
+#### Deep Learning Intern
 
-● Build training modules to demonstrate training and deployment of existing models on cloud and/or Edge Devices 
+	● Build training modules to demonstrate training and deployment of existing models on cloud and/or Edge Devices 
 
-● Research and evaluate new technologies that may improve performance of the existing models and implementation process. 
+	● Research and evaluate new technologies that may improve performance of the existing models and implementation process. 
 
-● Participate in technical collaboration meetings and provide the project management team with periodical reviews on implementation status as well as weekly reports on task plan for custom software implementations. 
+	● Participate in technical collaboration meetings and provide the project management team with periodical reviews on implementation status as well as weekly reports on task plan for custom software implementations. 
 
-● Review project specifications, flow charts, process diagrams and systems documentation for application operations and methodology. Provide the end users, with technical supports and user training.
+	● Review project specifications, flow charts, process diagrams and systems documentation for application operations and methodology. Provide the end users, with technical supports and user training.
 
 
 Indiana University-Bloomington
